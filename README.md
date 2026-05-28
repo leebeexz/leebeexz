@@ -80,4 +80,4 @@ Welcome to my GitHub profile! I build modern, responsive, and high-performance w
 ### 📫 Connect with Me
 
 - 🌐 Portfolio: [ariodimaspermadi-portofolio.netlify.app](https://ariodimaspermadi-portofolio.netlify.app/)
-- 💻 GitHub: [@YOUR_GITHUB_USERNAME_HERE](https://github.com/YOUR_GITHUB_USERNAME_HERE)
+- 💻 GitHub: @leebeexz (https://github.com/leebeexz)
